@@ -28,7 +28,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MOUSEKEY_INERTIA
 #define MOUSEKEY_DELAY 0
 #define MOUSEKEY_INTERVAL 8
-#define MOUSEKEY_TIME_TO_MAX 75
+#define MOUSEKEY_TIME_TO_MAX 64
 #define MOUSEKEY_MAX_SPEED 15
 #define MOUSEKEY_FRICTION  1
 #define MOUSEKEY_MOVE_DELTA 1
